@@ -231,7 +231,7 @@ class MainActivity2 : AppCompatActivity() {
 ### Imagenes de ejecucion
 
 #### Imagenes de la pantalla 1
-<img src = "img/pantalla1.png">
+<img src = "src/img/pantalla1.png">
 
 #### Imagen de la pantalla2
 <img src = "img/pantalla2.png>
