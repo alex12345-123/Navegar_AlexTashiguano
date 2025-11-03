@@ -227,3 +227,11 @@ class MainActivity2 : AppCompatActivity() {
         app:layout_constraintTop_toBottomOf="@+id/txtcurso1" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ``` 
+
+### Imagenes de ejecucion
+
+#### Imagenes de la pantalla 1
+<img src = "img/pantalla1.png">
+
+#### Imagen de la pantalla2
+<img src = "img/pantalla2.png>
